@@ -28,3 +28,5 @@ config_txt_changes:
   # Ensure GPU has enough memory for camera.
   - option: gpu_mem
     value: '128'
+
+arducam: false
